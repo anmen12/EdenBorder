@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Tell's the player when they are entering or exiting the build limit for Eden",
+        "pack_format": 48
+    }
+}
